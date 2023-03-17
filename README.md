@@ -1,6 +1,6 @@
 # Python Machine Learning for Data Science Discovery
 
-[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-DS-Discovery&urlpath=lab%2Ftree%2FPython-Machine-Learning-DS-Discovery%2F&branch=main) [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning-DS-Discovery/HEAD)
+[![D-Lab Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-DS-Discovery&urlpath=lab%2Ftree%2FPython-Machine-Learning-DS-Discovery%2F&branch=main) [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning-DS-Discovery/HEAD)
 
 This repository contains the materials for D-Lab’s Python Machine Learning workshop. Prior experience with [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals), [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization), and [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) is assumed.
 
@@ -40,9 +40,9 @@ Now that you have all the required software and materials, you need to run the c
 
 If you have a Berkeley CalNet ID, you can run these lessons on UC Berkeley's DataHub by clicking this button:
 
-[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-DS-Discovery&urlpath=lab%2Ftree%2FPython-Machine-Learning-DS-Discovery%2F&branch=main)
+[![D-Lab Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-DS-Discovery&urlpath=lab%2Ftree%2FPython-Machine-Learning-DS-Discovery%2F&branch=main)
 
-By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to DataHub [https://datahub.berkeley.edu](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-DS-Discovery&urlpath=tree%2FPython-Machine-Learning-DS-Discovery%2F&branch=main), sign in, and you click on the `Python-Machine-Learning-DS-Discovery` folder.
+By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to the D-Lab DataHub [https://dlab.datahub.berkeley.edu](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-DS-Discovery&urlpath=tree%2FPython-Machine-Learning-DS-Discovery%2F&branch=main), sign in, and you click on the `Python-Machine-Learning-DS-Discovery` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
