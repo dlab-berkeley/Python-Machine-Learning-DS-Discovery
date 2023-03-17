@@ -1,4 +1,4 @@
-# D-Lab's Python Machine Learning Workshop
+# Python Machine Learning for Data Science Discovery
 
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-DS-Discovery&urlpath=lab%2Ftree%2FPython-Machine-Learning-DS-Discovery%2F&branch=main) [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning-DS-Discovery/HEAD)
 
@@ -6,15 +6,9 @@ This repository contains the materials for D-Lab’s Python Machine Learning wor
 
 ## Workshop Goals
 
-In this workshop, we provide an introduction to machine learning in Python. First, we'll cover some machine learning basics, including its foundational principles. Then, we'll dive into code, understanding how to perform regression, regularization, preprocessing, and classification. There are additional components of the workshop which explore building machine learning pipelines and unsupervised learning. We'll demonstrate how to perform these tasks using `scikit-learn`, the main package used for machine learning in Python.
+This 2-hour Python Machine Learning Workshop by the Discovery Consultants will cover the following topics: Overview of Machine learning, Methods of Linear Regression, Logistic Regression (Classification), and Data Preprocessing. The workshop will consist of a live coding demo with a live question-answer session.
 
-This workshop is divided into the following parts:
-
-1. **Part 1: Regression and Regularization.** How can we use linear models to predict continuous outputs, and how can we prevent their overfitting?
-2. **Part 2: Preprocessing and Classification.** What preprocessing steps do we need to take before fitting models? Then, how do we perform classification?
-3. **Part 3: Machine Learning Pipeline.** We'll walk through a machine learning task, from exploratory data analysis to building an entire machine learning pipeline.
-
-The first two parts are taught as a joint series. Part 3 can be attended on its own, but prior knowledge of Parts 1 and 2 are assumed.
+Based on [dlab-berkeley/Python-Machine-Learning]([url](https://github.com/dlab-berkeley/Python-Machine-Learning))
 
 ## Installation Instructions
 
