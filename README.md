@@ -1,6 +1,6 @@
 # D-Lab's Python Machine Learning Workshop
 
-[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning&urlpath=lab%2Ftree%2FPython-Machine-Learning%2F&branch=main) [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning/HEAD)
+[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-DS-Discovery&urlpath=lab%2Ftree%2FPython-Machine-Learning-DS-Discovery%2F&branch=main) [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning-DS-Discovery/HEAD)
 
 This repository contains the materials for D-Lab’s Python Machine Learning workshop. Prior experience with [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals), [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization), and [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) is assumed.
 
@@ -22,13 +22,13 @@ Anaconda is a useful package management software that allows you to run Python a
 
 1. [Download and install Anaconda (Python 3.9 distribution)](https://www.anaconda.com/products/individual). Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
 
-2. Download the [Python-Machine-Learning workshop materials](https://github.com/dlab-berkeley/Python-Machine-Learning):
+2. Download the [workshop materials](https://github.com/dlab-berkeley/Python-Machine-Learning-DS-Discovery):
 
 * Click the green "Code" button in the top right of the repository information.
 * Click "Download Zip".
 * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
 
-3. Optional: if you're familiar with `git`, you can instead clone this repository by opening a terminal and entering `git@github.com:dlab-berkeley/Python-Machine-Learning.git`.
+3. Optional: if you're familiar with `git`, you can instead clone this repository by opening a terminal and entering `git@github.com:dlab-berkeley/Python-Machine-Learning-DS-Discovery.git`.
 
 ## Run the code
 
@@ -36,7 +36,7 @@ Now that you have all the required software and materials, you need to run the c
 
 1. Open the Anaconda Navigator application. You should see the green snake logo appear on your screen. Note that this can take a few minutes to load up the first time. 
 
-2. Click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the `Python-Machine-Learning` folder you downloaded above.
+2. Click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the `Python-Machine-Learning-DS-Discovery` folder you downloaded above.
 
 3. Click `00_introduction.md` to begin.
 
@@ -46,13 +46,13 @@ Now that you have all the required software and materials, you need to run the c
 
 If you have a Berkeley CalNet ID, you can run these lessons on UC Berkeley's DataHub by clicking this button:
 
-[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning&urlpath=lab%2Ftree%2FPython-Machine-Learning%2F&branch=main)
+[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-DS-Discovery&urlpath=lab%2Ftree%2FPython-Machine-Learning-DS-Discovery%2F&branch=main)
 
-By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to DataHub [https://datahub.berkeley.edu](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning&urlpath=tree%2FPython-Machine-Learning%2F&branch=main), sign in, and you click on the `Python-Machine-Learning` folder.
+By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to DataHub [https://datahub.berkeley.edu](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning-DS-Discovery&urlpath=tree%2FPython-Machine-Learning-DS-Discovery%2F&branch=main), sign in, and you click on the `Python-Machine-Learning-DS-Discovery` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning/main?urlpath=tree)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning-DS-Discovery/main?urlpath=tree)
 
 By using this button, you cannot save your work unfortunately.
 
