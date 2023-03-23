@@ -4,6 +4,8 @@
 
 This repository contains the materials for D-Lab’s Python Machine Learning workshop. Prior experience with [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals), [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization), and [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) is assumed.
 
+[Introductory Slides](https://docs.google.com/presentation/d/1D-hijRYVCySM1xMajYeOHT2CjYU-78TCmIK53ZXsj-g/edit)
+
 ## Workshop Goals
 
 This 2-hour Python Machine Learning Workshop by the Discovery Consultants will cover the following topics: Overview of Machine learning, Methods of Linear Regression, Logistic Regression (Classification), and Data Preprocessing. The workshop will consist of a live coding demo with a live question-answer session.
